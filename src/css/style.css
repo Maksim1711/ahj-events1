@@ -1,0 +1,49 @@
+body {
+	color: #999;
+}
+
+;
+
+.goblin {
+	width: 520px;
+	cursor: url('../img/lips.png'), pointer;
+}
+
+;
+
+.goblin .results {
+	font-size: 22px;
+	color: #000000;
+	text-align: center;
+}
+
+;
+
+.goblin .results span {
+	font-weight: bold;
+}
+
+;
+
+.goblin .results .score {
+	margin-right: 20px;
+}
+
+;
+
+.goblin .row {
+	display: flex;
+}
+
+;
+
+.goblin .col {
+	width: 120px;
+	height: 120px;
+	border: 1px solid #000000;
+	border-radius: 20px;
+	margin: 2px;
+	padding: 2px;
+}
+
+;
